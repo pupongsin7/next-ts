@@ -1,4 +1,6 @@
 ## Getting Started
+This project i trying to learn about Next with Typescript, Material-UI, ReactQuery
+
 Require node v18
 
 First of all install npm:
